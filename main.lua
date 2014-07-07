@@ -1,3 +1,4 @@
+#!/usr/bin/env lua
 --[[ Vortex 0.1 main program
 
  Author: q66 <quaker66@gmail.com>
